@@ -1,32 +1,14 @@
-# Ciao, sono Nicolò Badino 👋
+# Ciao, I am Nicolò Badino 👋
 
-Sviluppatore focalizzato su **Automazione Ad Alte Prestazioni**, **Web Scraping** e **Data Engineering**. Mi appassiona creare strumenti efficienti in grado di gestire grandi volumi di dati e superare sfide tecniche complesse.
+I am a PhD candidate in economics at the University of Genova. My research topics are mostly related to spatial and urban economics. 
+In this repository you will find some of my current projects, [RyanairScraperHighPerf](https://github.com/nbadino/RyanairScraperHighPerf) and [ScrapeBookingCom](https://github.com/nbadino/ScrapeBookingCom) are two of my high performance scraper of Booking.com and Ryanair for the Osservatorio del Settore Turistico Italiano (alpha version: [osti.nbadino.com](osti.nbadino.com)). 
 
----
+[zarr-gl](https://github.com/nbadino/zarr-gl) is a fork with some customization to deal with multidimensionality for raster zarr files for my new project [myboletus.com](https://myboletus.com) 
 
-### 🚀 Featured Project
-
-#### [RyanairScraperHighPerf](https://github.com/nbadino/RyanairScraperHighPerf)
-Un raccoglitore di dati aeronautici ultra-rapido scritto in **Go** con integrazioni di session harvesting stealth in **Python**. 
-- **Focus**: Efficienza estrema, bypassing bot-detection avanzati, archiviazione scalabile.
-
----
-
-### 🛠️ Technical Toolbox
-
-- **Languages**: Python, Go, JavaScript (Node.js), Stata.
-- **Automation**: Playwright, Patchright, Browser Fingerprinting.
-- **Data**: SQL (PostgreSQL, SQLite), Stata, Data Pipelines.
-- **Infrastructure**: Linux, WireGuard VPNs, Scraping Clusters.
-
----
 
 ### 🌐 Connettiamoci
 
 - **Sito Web**: [nbadino.com](https://nbadino.com)
-- **Email**: info@nbadino.com (o tramite GitHub)
+- **Email**: nicolo.badino\at/edu.unige.it
 - **Disponibilità**: Aperto a collaborazioni su progetti di ingegneria dei dati e automazione complessa.
 
----
-
-*"Building tools that make data acquisition seamless and scalable."*
