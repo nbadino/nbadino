@@ -6,9 +6,3 @@ In this repository you will find some of my current projects, [RyanairScraperHig
 [zarr-gl](https://github.com/nbadino/zarr-gl) is a fork with some customization to deal with multidimensionality for raster zarr files for my new project [myboletus.com](https://myboletus.com) 
 
 
-### 🌐 Connettiamoci
-
-- **Sito Web**: [nbadino.com](https://nbadino.com)
-- **Email**: nicolo.badino\at/edu.unige.it
-- **Disponibilità**: Aperto a collaborazioni su progetti di ingegneria dei dati e automazione complessa.
-
