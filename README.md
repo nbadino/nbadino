@@ -1,4 +1,4 @@
-# Ciao, I am Nicolò Badino 👋
+# Ciao, I am Nicolò 👋
 
 I am a PhD candidate in economics at the University of Genova. My research topics are mostly related to spatial and urban economics. 
 In this repository you will find some of my current projects, [RyanairScraperHighPerf](https://github.com/nbadino/RyanairScraperHighPerf) and [ScrapeBookingCom](https://github.com/nbadino/ScrapeBookingCom) are two of my high performance scraper of Booking.com and Ryanair for the Osservatorio del Settore Turistico Italiano (alpha version: [osti.nbadino.com](https://osti.nbadino.com)). 
